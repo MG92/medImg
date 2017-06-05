@@ -85,5 +85,5 @@ def patches_3d(scan_set):
                 w.write(f, scaled)
                 f.close()
     return patch
-
+ 
 patches_2d(t1_scans)
